@@ -9,7 +9,7 @@ import sys
 
 x = 'https://i.imgur.com/wYqXOxj.png'
 
-TOKEN = 'NzcwNDMyMTA0MzU4MDg0NjM5.X5dezw.lnQknh7IogoQFVDP87fL3dv2-6U'
+TOKEN = 'BOT TOKEN'
 
 client = commands.Bot(command_prefix = 'p.')
 
